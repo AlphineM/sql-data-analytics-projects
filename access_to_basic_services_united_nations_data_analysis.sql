@@ -1,5 +1,5 @@
 /* ============================================================
-   SCRIPT 1: UNITED NATIONS BASIC SERVICES AND ECONOMIC INDICATORS
+  BASIC SERVICES AND ECONOMIC INDICATORS ANALYSIS
 
    Purpose:
    Organizes country-level geographic, economic and basic
