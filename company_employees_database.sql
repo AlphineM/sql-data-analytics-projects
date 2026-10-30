@@ -1,5 +1,5 @@
 /* ============================================================
-   SCRIPT 2: COMPANY EMPLOYEES DATABASE
+  COMPANY EMPLOYEES DATABASE
 
    Purpose:
    Creates a sample employee database and demonstrates how
